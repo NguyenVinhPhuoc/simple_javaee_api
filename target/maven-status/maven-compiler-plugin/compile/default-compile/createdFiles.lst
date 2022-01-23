@@ -1,0 +1,6 @@
+com\axonactive\bookstore\model\Language.class
+com\axonactive\bookstore\repository\Greeter.class
+com\axonactive\bookstore\rest\BookEndpoint.class
+com\axonactive\bookstore\rest\JAXRSConfiguration.class
+com\axonactive\bookstore\repository\BookRepository.class
+com\axonactive\bookstore\model\Book.class
